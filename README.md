@@ -4,4 +4,5 @@ Read data from MSGEQ7 chip and send to wifi network in WLED compatible format, j
 Create a wifi.h file with your wifi details
 
 #define SECRET_SSID "";  /* Replace with your SSID */
+
 #define SECRET_PSK "";   /* Replace with your WPA2 passphrase */
